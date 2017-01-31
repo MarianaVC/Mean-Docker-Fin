@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mariana/meta_negra/vagrant_box","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{},"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/mariana/meta_negra/vagrant_box/mean-docker","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
